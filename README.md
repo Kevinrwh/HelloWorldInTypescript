@@ -1,0 +1,1 @@
+A simple HelloWorld program to help me learn how Typescript works. I will be using this as a starting point for a DeFi asset tracker.
